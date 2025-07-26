@@ -104,7 +104,7 @@ cd miforo
 
 
 
-5.- Accede a la API: Visita hhtp://localhost:8080
+5.- Accede a la API: Visita hhtp://{tuhost}:{port}
 
 
 
@@ -174,7 +174,7 @@ Aquí tienes algunos ejemplos para probar las rutas de la API usando herramienta
 
 Esta API está documentada utilizando Swagger con SpringDoc OpenAPI. Para ver la documentación interactiva:
 
-🔗 http://localhost:8080/swagger-ui/index.html
+🔗 http://localhost:{port}/swagger-ui/index.html
 
 La interfaz Swagger te permitirá:
 
